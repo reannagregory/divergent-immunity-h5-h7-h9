@@ -6,7 +6,7 @@ This repository contains the scripts for the analysis presented in the scientifi
 
 \* Joint first author.
 
-\† Corresponding author: craig.thompson@warwick.ac.uk
+† Corresponding author: craig.thompson@warwick.ac.uk
 
 **DOI**: ([https://doi.org/10.1101/2025.09.08.25335309])
 
