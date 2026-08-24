@@ -8,7 +8,7 @@ This repository contains the scripts for the analysis presented in the scientifi
 
 † Corresponding author: craig.thompson@warwick.ac.uk
 
-**DOI**: ([https://doi.org/10.1101/2025.09.08.25335309])
+**DOI**: https://doi.org/10.1101/2025.09.08.25335309
 
 # Software
 We produced all code using Python version 3.12.3.
